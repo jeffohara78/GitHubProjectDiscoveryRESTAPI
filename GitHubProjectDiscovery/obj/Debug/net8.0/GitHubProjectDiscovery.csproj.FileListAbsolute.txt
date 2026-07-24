@@ -1,0 +1,14 @@
+C:\Users\Jeff\source\repos\GitHubProjectDiscovery\GitHubProjectDiscovery\bin\Debug\net8.0\GitHubProjectDiscovery.exe
+C:\Users\Jeff\source\repos\GitHubProjectDiscovery\GitHubProjectDiscovery\bin\Debug\net8.0\GitHubProjectDiscovery.deps.json
+C:\Users\Jeff\source\repos\GitHubProjectDiscovery\GitHubProjectDiscovery\bin\Debug\net8.0\GitHubProjectDiscovery.runtimeconfig.json
+C:\Users\Jeff\source\repos\GitHubProjectDiscovery\GitHubProjectDiscovery\bin\Debug\net8.0\GitHubProjectDiscovery.dll
+C:\Users\Jeff\source\repos\GitHubProjectDiscovery\GitHubProjectDiscovery\bin\Debug\net8.0\GitHubProjectDiscovery.pdb
+C:\Users\Jeff\source\repos\GitHubProjectDiscovery\GitHubProjectDiscovery\obj\Debug\net8.0\GitHubProjectDiscovery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeff\source\repos\GitHubProjectDiscovery\GitHubProjectDiscovery\obj\Debug\net8.0\GitHubProjectDiscovery.AssemblyInfoInputs.cache
+C:\Users\Jeff\source\repos\GitHubProjectDiscovery\GitHubProjectDiscovery\obj\Debug\net8.0\GitHubProjectDiscovery.AssemblyInfo.cs
+C:\Users\Jeff\source\repos\GitHubProjectDiscovery\GitHubProjectDiscovery\obj\Debug\net8.0\GitHubProjectDiscovery.csproj.CoreCompileInputs.cache
+C:\Users\Jeff\source\repos\GitHubProjectDiscovery\GitHubProjectDiscovery\obj\Debug\net8.0\GitHubProjectDiscovery.dll
+C:\Users\Jeff\source\repos\GitHubProjectDiscovery\GitHubProjectDiscovery\obj\Debug\net8.0\refint\GitHubProjectDiscovery.dll
+C:\Users\Jeff\source\repos\GitHubProjectDiscovery\GitHubProjectDiscovery\obj\Debug\net8.0\GitHubProjectDiscovery.pdb
+C:\Users\Jeff\source\repos\GitHubProjectDiscovery\GitHubProjectDiscovery\obj\Debug\net8.0\GitHubProjectDiscovery.genruntimeconfig.cache
+C:\Users\Jeff\source\repos\GitHubProjectDiscovery\GitHubProjectDiscovery\obj\Debug\net8.0\ref\GitHubProjectDiscovery.dll
